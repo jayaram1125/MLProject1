@@ -1,4 +1,5 @@
-This project is about 
+This project is about
+
 1.Importing data from excel into matrices mean 
 2.Computing Mean ,Variance and Standard Deviation for each input feature 
 3.Computing Covariance and Correlation among the four input features 
